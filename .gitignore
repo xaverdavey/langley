@@ -1,0 +1,8 @@
+_build
+.venv
+main.native
+__pycache__
+trainer_output
+full_output
+lora_output
+.DS_Store
